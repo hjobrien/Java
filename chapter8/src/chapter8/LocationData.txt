@@ -1,0 +1,50 @@
+***Albertsons
+13200 Aurora Ave N
+grocery_or_supermarket
+47.724379
+-122.343057
+***Jimmy John's
+13242 Aurora Ave N
+meal_delivery
+47.725963
+-122.344623
+***Ivar's Seafood Bar
+13448 Aurora Ave N
+meal_takeaway, restaurant
+47.726500
+-122.344984
+***Cambria Corporation
+1440 N 128th St
+electronics_manufacture
+47.72280
+-122.341021
+***Krispy Kreme Seattle
+12505 Aurora Ave N
+meal_takeaway
+47.720192
+-122.345441
+***PetSmart
+13000 Aurora Ave N
+pet_store
+47.724624
+-122.343338
+***Sam's Club
+13550 Aurora Ave N
+grocery_or_supermarket
+47.728070
+-122.342453
+***Office Depot
+13501 Aurora Ave N
+office_supply_store
+47.727694
+-122.345543
+***Ingraham High School
+1819 N 135th St
+school
+47.726569
+-122.337346
+***Baskin Robbins
+13201 Aurora Ave N
+other_food
+47.724887
+-122.345565
